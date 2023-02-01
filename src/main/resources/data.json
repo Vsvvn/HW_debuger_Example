@@ -1,0 +1,66 @@
+{
+  "JANUARY": {
+    "0": {
+      "category": "FOOD",
+      "sum": 490,
+      "comment": "Бизнес-ланч"
+    },
+    "1": {
+      "category": "TRANSPORT",
+      "sum": 328,
+      "comment": "Такси на работу"
+    },
+    "2": {
+      "category": "TRANSPORT",
+      "sum": 237,
+      "comment": "Такси домой из офиса"
+    },
+    "3": {
+      "category": "HOBBY",
+      "sum": 4800,
+      "comment": "Виниловая пластинка"
+    },
+    "4": {
+      "category": "CLOTHES",
+      "sum": 5999,
+      "comment": "Куртка"
+    },
+    "5": {
+      "category": "FUN",
+      "sum": 1254,
+      "comment": "Пиво в баре"
+    },
+    "6": {
+      "category": "FOOD",
+      "sum": 780,
+      "comment": "Бургер"
+    },
+    "7": {
+      "category": "TRANSPORT",
+      "sum": 732,
+      "comment": "Такси в бар и обратно"
+    },
+    "8": {
+      "category": "FOOD",
+      "sum": 2353,
+      "comment": "Продукты в супермаркете"
+    },
+    "9": {
+      "category": "CLOTHES",
+      "sum": 1999,
+      "comment": "Перчатки и шарфы"
+    }
+  },
+  "FEBRUARY": {
+    "0": {
+      "category": "FOOD",
+      "sum": 0,
+      "comment": "хлеб"
+    },
+    "1": {
+      "category": "CLOTHES",
+      "sum": 0,
+      "comment": "штаны"
+    }
+  }
+}
